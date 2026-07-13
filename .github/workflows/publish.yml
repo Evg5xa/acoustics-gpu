@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      id-token: write   # обязательно для OIDC
+      id-token: write
       contents: read
     steps:
     - uses: actions/checkout@v4
