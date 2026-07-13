@@ -11,7 +11,7 @@ setup(
     description="GPU-ускоренное моделирование акустики помещений: Ray Tracing + Image Source",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Evg5xa/-Application-of-GPU-optimization-for-physical-models",
+    url="https://github.com/Evg5xa/acoustics-gpu",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
