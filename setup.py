@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="acoustics_gpu",
-    version="1.0.0",
+    version="1.0.1",
     author="Evg5xa",
     author_email="zhmeldov@yandex.ru",
     description="GPU-ускоренное моделирование акустики помещений: Ray Tracing + Image Source",
